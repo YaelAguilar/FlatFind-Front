@@ -1,4 +1,4 @@
-import HomeContainer from '../containers/homeContainer';
+import HomeContainer from '../containers/HomeContainer';
 
 function Home() {
     return(
