@@ -5,7 +5,7 @@ function HomeContainer() {
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <main className="flex justify-center">
+      <main className="flex justify-center mt-32">
         <HeroSection></HeroSection>
       </main>
     </div>
